@@ -46,9 +46,6 @@ ${renderLicenseBadge(data.license)}
 
 ## Description
 ${data.description}
-
-* [github](#github)
-
 * [Installation](#installation)
 
 * [Usage](#usage)

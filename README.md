@@ -3,9 +3,6 @@
 
 ## Description
 undefined
-
-*[github](#github)
-
 * [Installation](#installation)
 
 * [Usage](#usage)
