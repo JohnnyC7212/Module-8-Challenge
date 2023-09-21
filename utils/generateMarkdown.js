@@ -23,6 +23,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== 'None') {
     const licenseSection = `
+    
     ## License
     
     This project is licensed under [${license} License](${renderLicenseLink(license)}).
