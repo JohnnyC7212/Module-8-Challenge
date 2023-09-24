@@ -51,6 +51,12 @@ const questions = [
         name: 'Tests',
         default: 'npm test',
     },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What kind of license should your project have?',
+        choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
+    },
 
 ];
 

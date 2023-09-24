@@ -26,11 +26,6 @@ undefined
 undefined
 
 
-    
-    ## License
-    
-    This project is licensed under [undefined License](undefined).
-    
 
 ## Contributing
 
